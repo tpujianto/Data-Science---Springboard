@@ -15,9 +15,8 @@ I finished course on December 2020.
 |  |[JSON](https://github.com/tpujianto/Data-Science---Springboard/blob/main/01%20-%20JSON%20Based%20Data%20Exercise/sliderule_dsi_json_exercise.ipynb)  |
 |  | [SQL](https://github.com/tpujianto/Data-Science---Springboard/blob/main/02%20-%20SQL_practice/sql_miniproject.sql) |
 |  | [Spark Mini-Project: Databricks edition]() |
-| Inferential statistics | [Analyze Human Body Temperature]() |
-|  | [Examine Racial Discrimination ]() |
-|  | [Reduce Hospital Readmissions]() |
+| Inferential statistics | [Fundamental](https://github.com/tpujianto/Data-Science---Springboard/blob/main/04%20-%20INFERENTIAL_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb) |
+|  | [Reduce Hospital Readmissions](https://github.com/tpujianto/Data-Science---Springboard/blob/main/04%20-%20INFERENTIAL_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25.ipynb) |
 | Machine Learning | [Linear Regression Using Boston Housing Data Set]() |
 |  | [Heights and Weights Using Logistic Regression]() |
 |  | [Predicting Movie Ratings from Reviews Using Naive Bayes]() |
