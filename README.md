@@ -17,9 +17,9 @@ I finished course on December 2020.
 |  | [Spark Mini-Project: Databricks edition]() |
 | Inferential statistics | [Fundamental](https://github.com/tpujianto/Data-Science---Springboard/blob/main/04%20-%20INFERENTIAL_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1a-Q6.25.ipynb) |
 |  | [Reduce Hospital Readmissions](https://github.com/tpujianto/Data-Science---Springboard/blob/main/04%20-%20INFERENTIAL_statistics_frequentist_mini-projects6.28.19/inferential_statistics_1b-Q6.25.ipynb) |
-| Machine Learning | [Linear Regression Using Boston Housing Data Set]() |
-|  | [Heights and Weights Using Logistic Regression]() |
-|  | [Predicting Movie Ratings from Reviews Using Naive Bayes]() |
-|  | [Customer Segmentation Using Clustering]() |
-| Take Home Challenge | [Challenge 1]() |
-||[Challenge 2]()|
+| Machine Learning | [Linear Regression Using Boston Housing Data Set](https://github.com/tpujianto/Data-Science---Springboard/blob/main/07%20-%20LINEAR_regression/Mini_Project_Linear_Regression.ipynb) |
+|  | [Heights and Weights Using Logistic Regression](https://github.com/tpujianto/Data-Science---Springboard/blob/main/08%20-%20LOGISTIC_regression/Mini_Project_Logistic_Regression.ipynb) |
+|  | [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/tpujianto/Data-Science---Springboard/blob/main/09%20-%20NAIVE_bayes_mini_project/Mini_Project_Naive_Bayes.ipynb) |
+|  | [Customer Segmentation Using Clustering](https://github.com/tpujianto/Data-Science---Springboard/blob/main/10%20-%20CLUSTERING_mini-project/Mini_Project_Clustering.ipynb) |
+| Take Home Challenge | [User Engagement](https://github.com/tpujianto/Data-Science---Springboard/blob/main/12%20-%20USER_ENGAGEMENT/user_engagement.ipynb) |
+||[Retention Rate](https://github.com/tpujianto/Data-Science---Springboard/blob/main/13%20-%20RETENTION/retention_challenge.ipynb)|
